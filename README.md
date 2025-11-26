@@ -25,8 +25,8 @@ Integração com FastAPI via fetch
 ✔ Comunicação direta com o backend local (http://127.0.0.1:8000/chat)
 
 ## 📦 Prompt para rodar o projeto
-npm install
-npm run dev
+npm install (Utilize esse código para instalar a dependência do projeto)
+npm run dev (Utilize esse código para rodar o projeto)
 
 
 Acesse no navegador:
