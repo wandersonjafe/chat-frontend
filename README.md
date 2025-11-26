@@ -47,6 +47,8 @@ Com corpo:
 }
 
 ## 📁 Estrutura principal
+
+```text
 src/
  ├── App.jsx
  ├── App.css
@@ -55,7 +57,7 @@ src/
 public/
 index.html
 
-
+```
 🤝 Autor
 
 Projeto desenvolvido por Wanderson Jafé.
